@@ -16,7 +16,7 @@ O objetivo deste projeto é fornecer uma implementação de um jogo clássico de
 
 - Interface gráfica utilizando componentes do React Native.
 - Controles baseados em gestos na tela.
-- Geração aleatória de comida na grade.
+- Geração aleatória de comida.
 - Crescimento da cobrinha ao comer a comida.
 - Detecção de colisões com as paredes ou com o próprio corpo da cobrinha para o fim do jogo.
 - Contagem de pontos ao comer a comida.
